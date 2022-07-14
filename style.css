@@ -1,0 +1,128 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&family=Khula:wght@300&family=Nunito&display=swap');
+
+body {
+	background-color: white;
+	color: black;
+}
+.dark-mode {
+	background-color: black;
+	color: white;
+}
+button {
+	background-color: rgb(255, 255, 255);
+	padding: 5px 25px;
+	font-size: 13px;
+	position: absolute;
+	left: 400px;
+    top: 82px;
+	border-radius: 90px;
+}
+/* search */
+.left {
+	position: relative;
+	left: 680px;
+}
+
+header {
+	position: relative;
+	top: 25px;
+	left: 35px;
+    
+}
+.logo {
+	width: 50px;
+	height: 50px;
+	position: relative;
+	left: 15px;
+    
+}
+.container {
+	height: 97%;
+	width: 98%;
+    
+}
+.content1 {
+	width: 100%;
+	padding: 10px;
+	background-color: brown;
+	display: flex;
+    color: white;
+}
+
+.img {
+	width: 1500px;
+	height: 200px;
+	display: inline-block;
+    background-color:rgb(174, 174, 174);
+    margin-left: 20px;
+    
+}
+.p1 {
+	font-size: 40px;
+    font-family: 'Fira Code', monospace;
+    margin-left: 30px;
+    
+    
+}
+.p2 {
+	font-size: 25px;
+    font-family: 'Fira Code', monospace;
+    margin-left: 30px;
+    
+}
+.paragraph1 {
+	display: inline-block;
+	margin-top: 5px;
+	padding: 5px;
+    font-family: 'Fira Code', monospace;
+    margin-left: 20px;
+    
+}
+.paragraph2 {
+	display: inline-block;
+	margin-top: 5px;
+	padding: 5px;
+    font-family: 'Fira Code', monospace;
+    margin-left: 20px;
+    
+}
+.content2 {
+	width: 100%;
+	padding: 10px;
+	background-color: gainsboro;
+    
+}
+.container1 {
+	display: flex;
+	vertical-align: middle;
+	padding: 5px;
+    
+}
+.container2 {
+	display: flex;
+	vertical-align: baseline;
+	padding: 5px;
+    
+}
+.container3 {
+	width: 100%;
+	padding: 20px;
+	background-color: brown;
+	margin-top: 50px;
+    color: white;
+}
+
+a {
+	position: relative;
+	left: 20px;
+	text-decoration: none;
+	color: black;
+	padding: 8px;  
+}
+#Home {
+	color: brown;
+	text-decoration: underline;
+}
+
+
