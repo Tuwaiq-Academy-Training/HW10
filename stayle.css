@@ -1,0 +1,47 @@
+html {
+    margin: 10px;
+    padding: 0px;
+}
+body {
+	background-color: white;
+	color: black;
+}
+.dark-mode {
+	background-color: black;
+	color: white;
+}
+.dark{
+    position: absolute;
+    top: -50px;
+    right: 0px;
+}
+.img{
+    filter: invert(100%);
+    -webkit-filter: invert(100%);  
+    right: 50px; 
+    margin: 0px;
+    padding: 0px;
+    top: 30px;
+    overflow: hidden; 
+    
+}
+.text{
+color: beige;
+position:absolute; left:80px; top:30px; 
+font-size: smaller;
+
+}
+.p2{
+font-size: smaller; 
+position:absolute;
+left:325px; top:280px;
+}
+.imeg2{
+position:absolute;
+right:0px; top:550px;
+}
+.p3{
+font-size: smaller; 
+position:absolute;
+left:20px; top:550px; right: 300px;
+}
