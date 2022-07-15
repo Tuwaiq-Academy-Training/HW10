@@ -7,6 +7,9 @@ body {
 #header {
     background-color:brown;
 }
+#footer {
+  background-color:brown;
+}
 p{
     font-family: 'Roboto Mono', monospace;
     color: black;
