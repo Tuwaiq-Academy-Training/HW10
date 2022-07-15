@@ -1,0 +1,95 @@
+.h1
+{
+    font-size: large;
+    font-style: oblique;
+    color: brown;
+}
+#header
+{
+ background-color: brown;
+}
+.titleheader
+{
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Source Code Pro', monospace;
+    padding-top: -8px;
+
+}
+.topnav
+{
+    background-color: darkred;
+    height: 60px;
+}
+.titelheader-2
+{
+    font-family: 'Grape Nuts', cursive;
+font-family: 'Source Code Pro', monospace;
+
+}
+
+.title-3
+{
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Source Code Pro', monospace;
+
+}
+
+.navbar-brand:hover
+{
+    /* background-color:darkgray; */
+    color:red;
+    text-decoration: underline;
+}
+.title
+{
+    color: floralwhite;
+    font-size: large;
+}
+.flex-grow-1 
+{
+    font-family: 'Grape Nuts', cursive;
+font-family: 'Source Code Pro', monospace;
+}
+.foter
+{
+    color: floralwhite;
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Source Code Pro', monospace;
+}
+
+
+/* body{
+    margin: 0%;
+    padding: 0%;
+    font-family: "Arial", Helvetica, sans-serif;
+} */
+i{
+    /* font-size: 90px; */
+    cursor: pointer;
+    position: relative;
+  
+    
+   
+    /* top: 10px;
+    left: 20px; */
+    /* transform: translate(60px, -600%); */
+    /* padding-top: -40px; */
+}
+.sun
+{
+    align-items: center;
+}
+
+
+
+
+
+/* .bi 
+{
+    align-items: flex-end;
+
+} */
+/* h1{
+    text-align: left;
+    font-size: 30px;
+} */
