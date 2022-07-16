@@ -1,0 +1,47 @@
+body{
+    background-color: white;
+}
+html{
+    margin-left: 20px;
+    margin-right:20px;
+}
+#left  {
+    float: left;    
+     margin: 0 15px 0 0;
+     position: relative;
+     left: 20px;
+    }
+
+#right  {
+    float: right;    
+     margin: 0 0 0 15px;
+     position: relative;
+     left: 20px;
+ }
+h3{
+    position: relative;
+    left: 20px;
+    font-family: sans-serif;
+}
+h5{
+    position: relative;
+    left: 20px;
+    font-family: Georgia, serif;
+}
+p{
+    position: relative;
+    left: 20px;
+    font-family: serif;
+}
+
+footer
+{
+  padding-top: 5vh;
+  padding-bottom: 2vh;
+  background-color:hsl(356, 74%, 38%);
+
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
