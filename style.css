@@ -1,0 +1,66 @@
+.logo{
+background-color: rgb(196, 6, 6);
+color: white;
+font-size: smaller; 
+}
+.logo img{
+  float: left;
+  max-width: 40px;  
+}
+.topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    color: rgb(196, 6, 6);
+    text-decoration: underline;
+  }
+  
+  .topnav .search-container {
+    float: right;
+  }
+  
+  .topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+ 
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }  
+  .article1 img{
+    float: left;
+    height: 190px;
+    width: 300px;  
+}
+  .article2 img{
+    float: right;
+    height: 190px;
+    width: 300px; 
+  }
+  
+footer {
+    padding: 3px;
+    margin-top: 150px;
+    background-color: rgb(196, 6, 6);
+    color: white;
+  }
