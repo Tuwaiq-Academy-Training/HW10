@@ -1,0 +1,97 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+.bar {
+	width: 100%;
+    height: 100%;
+	padding: 15px;
+    border-radius: 4%;
+	background-color: gainsboro;
+    
+}
+.dark{
+    transform: translate(3998%, 16%);
+}
+.darkMode {
+    background-color: black;
+    color: white;
+  }
+
+.search-box{
+    position: absolute;
+    top: 51%;
+    left: 100%;
+    transform: translate(390%, -86%);
+    background: #f7faff;
+    height: 13px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+.icon{
+    transform: translate(570%, -86%);
+}
+.search-txt{
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0;
+    color: white;
+    font-size: 16px;
+    transition: 0.4s;
+    line-height: 20px;
+    width: 140px;
+
+}
+.pic {
+	width: 300px;
+	height: 320px;
+    background-color:rgb(174, 174, 174);
+    float: left;
+    margin-right: 10px;
+    
+}
+.p1 {
+	font-size: 40px;
+    font-family: 'Fira Code', monospace;
+    margin-left: 30px;
+}
+.p2 {
+    margin-left: 30px;
+	font-size: 25px;
+    font-family: 'Fira Code', monospace;
+}
+.para {
+	display: inline-block;
+    font-family: 'Fira Code', monospace;
+	margin-top: 5px;
+	padding: 5px;
+    margin-left: 20px;
+}
+.cont {
+	vertical-align: middle;
+	display: flex;
+	padding: 5px;
+}
+.container {
+    vertical-align: baseline;
+	display: flex;
+	padding: 5px;
+}
+.container3 {
+	width: 100%;
+	padding: 20px;
+	background-color: #25107a;
+	margin-top: 50px;
+    color: white;
+}
+a {
+	position: relative;
+	left: 20px;
+	text-decoration: none;
+	color: black;
+	padding: 8px;  
+}
