@@ -1,0 +1,52 @@
+header{
+    background-color: rgb(69, 7, 69);;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 100px;
+}
+.search input[type=text]{
+    float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+  border: 1px solid #ccc;
+
+}
+.logo{
+    background-color: plum;
+    color: black;
+    font-size: smaller; 
+    }
+    .logo img{
+      float: left;
+      max-width: 40px;  
+    }
+
+    
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }  
+  .articale1 img{
+    float: left;
+    height: 180px;
+    width: 250px;  
+}
+  .articale2 img{
+    float: right;
+    height: 180px;
+    width: 250px; 
+  }
+  
+footer {
+    padding: 3px;
+    margin-top: 150px;
+    background-color:rgb(69, 7, 69);;
+    color: white;
+  }
